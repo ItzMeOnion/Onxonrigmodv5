@@ -3,7 +3,7 @@
   "id": "marlows_crystal_optimiser",
   "version": "${version}",
   "name": "Marlow's crystal optimiser",
-  "description": "Client-side menu and configuration framework.",
+  "description": "Optimization that fixes waiting on the server after crystal break before end crystal entites are gone.",
   "authors": ["Onxon"],
   "environment": "client",
   "icon": "assets/marlows/icon.png",
